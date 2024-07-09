@@ -1,11 +1,5 @@
 @charset "UTF-8";
 
-body{
-    color:brown;
-    margin:0;
-    padding:0;
-}
-
 header{
     width:1000px;
     background-color:#ffcccc;
